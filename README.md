@@ -9,7 +9,7 @@ Please find the cross-lingual word analogy corpus (*xANLG*) in the `/data` folde
 ## Code
 
 - `get_emb.py`: Retrieve vectors corresponding to lexicons of *xANLG* from pre-trained word embeddings, then perform pre-processing steps. We process one language pair per time.
-- `LRCos`: Please directly use the [Vecto](https://github.com/vecto-ai/vecto) libaray.
+- `LRCos`: Please directly use the [Vecto](https://github.com/vecto-ai/vecto) library.
 - `validate_analogy.py`: Perform the parallelogram validation algorithm introduced in §4.1.3.
 - `linear_map.py`: Find the linear mapping using Generic Procrustes Analysis.
 
