@@ -16,8 +16,7 @@ Please find the cross-lingual word analogy corpus (*xANLG*) in the `/data` folde
 ## About
 If you like our project or find it useful, please give us a :star: and cite us
 ```bibtex
-@article{
-xANLG,
+@article{xANLG,
 title={Understanding Linearity of Cross-Lingual Word Embedding Mappings},
 author={Xutan Peng and Mark Stevenson and Chenghua Lin and Chen Li},
 journal={Transactions on Machine Learning Research},
